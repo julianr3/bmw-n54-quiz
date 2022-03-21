@@ -4,9 +4,10 @@
 
 ## Description
 
-- Generating a tool to create a safe and secure password for the user.
-- Adds additional layer of security by providing optional password criteria requirements.
-- Gives the end-user the ability to create a simple or complex password.
+- Test general BMW knowledge using a creative quiz module.
+- Race against the time by answering questions to become a BMW N54 expert
+- Created as a quick reference point for N54 mechanics while also
+making it fun for enthusiasts.
 
 ## Table of Contents
 
