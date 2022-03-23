@@ -72,8 +72,6 @@ function setTime() {
     if(secondsLeft <= 0) {
       // Stops execution of action at set interval
       clearInterval(timerInterval);
-      // Calls function to create and append image
-    //   sendMessage();
     }
 
   }, 1000);
@@ -138,24 +136,4 @@ if (userAnswer === questionsArray[currentIndex].correct) {
     displayQuestion()
 }
     
-clearInterval(timeinterval)
 }
-// timerrrrr!!!!!
-// function showHighscore (event) {
-//     var highscoreContainer=document.getElementById("highscoreContainer");
-//     highscoreContainer.style.display = "block";
-//     var startContainer=document.getElementById("startContainer");
-//     startContainer.style.display = "none";
-//     var questionContainer=document.getElementById("questionContainer");
-//     questionContainer.style.display = "none";
-
-// }
-// }
-// }
-
-// function displayHighscore () {
-
-//     var yourScore = document.getElementById("yourScore");
-// //     yourScore.textContent = 
-
-// }
