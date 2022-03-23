@@ -22,10 +22,9 @@ This tool is embedded in a URL. No installation required.
 
 ## Usage
 
-Once the website is launched, navigate to the generate button then click once. A series of questions will processed to tailor the 
-password to the users specifications. Code will generate automatically after questions are completed.
+Once the website is launched, you will be brought to a main menu. Click start to begin the quiz. There are five questions and the user has fifty seconds to complete the quiz. Each incorrect answer deducts five seconds from the current time.
 
-![Image of website](assets/images/passwordgenerator.png)
+![Image of website](assets/images/BMWquiz.png)
 
 ## Credits
 
